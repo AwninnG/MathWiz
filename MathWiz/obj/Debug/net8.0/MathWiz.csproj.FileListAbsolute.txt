@@ -1,0 +1,14 @@
+D:\projeler\MathWiz\bin\Debug\net8.0\MathWiz.exe
+D:\projeler\MathWiz\bin\Debug\net8.0\MathWiz.deps.json
+D:\projeler\MathWiz\bin\Debug\net8.0\MathWiz.runtimeconfig.json
+D:\projeler\MathWiz\bin\Debug\net8.0\MathWiz.dll
+D:\projeler\MathWiz\bin\Debug\net8.0\MathWiz.pdb
+D:\projeler\MathWiz\obj\Debug\net8.0\MathWiz.GeneratedMSBuildEditorConfig.editorconfig
+D:\projeler\MathWiz\obj\Debug\net8.0\MathWiz.AssemblyInfoInputs.cache
+D:\projeler\MathWiz\obj\Debug\net8.0\MathWiz.AssemblyInfo.cs
+D:\projeler\MathWiz\obj\Debug\net8.0\MathWiz.csproj.CoreCompileInputs.cache
+D:\projeler\MathWiz\obj\Debug\net8.0\MathWiz.dll
+D:\projeler\MathWiz\obj\Debug\net8.0\refint\MathWiz.dll
+D:\projeler\MathWiz\obj\Debug\net8.0\MathWiz.pdb
+D:\projeler\MathWiz\obj\Debug\net8.0\MathWiz.genruntimeconfig.cache
+D:\projeler\MathWiz\obj\Debug\net8.0\ref\MathWiz.dll
